@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afe17587-8c72-4641-a98f-e23d494db2d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/simple/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/simple/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -61,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/simple/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding>
                 <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
@@ -191,12 +191,12 @@
       <workItem from="1538993512239" duration="597000" />
       <workItem from="1539094724554" duration="56000" />
       <workItem from="1539104501880" duration="36000" />
-      <workItem from="1539180038707" duration="6000" />
+      <workItem from="1539180038707" duration="469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2996000" />
+    <option name="totallyTimeSpent" value="3459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="33" width="1656" height="990" extended-state="0" />
@@ -247,7 +247,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/simple/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
